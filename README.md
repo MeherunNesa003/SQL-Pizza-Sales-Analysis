@@ -51,13 +51,11 @@ The main goal of this project is to use SQL to analyze pizza sales data and deri
 ---
 
 ## 🛠️ Tools & Technologies
-- **SQL** (MySQL / PostgreSQL / SQLite)  
-- **Database Client:** MySQL Workbench / DBeaver / pgAdmin  
-- **Optional Visualization:** Power BI / Tableau / Excel  
-
+- **SQL** (MySQL)  
+- **Database Client:** MySQL Workbench  
 ---
 
-## 📊 Key Insights (Sample Findings)
+## 📊 Key Insights 
 - **Classic Deluxe Pizza** generated the highest revenue.  
 - **Medium-sized pizzas** were the most frequently ordered size.  
 - Sales peaked between **6 PM – 9 PM**, indicating strong evening demand.  
@@ -67,11 +65,8 @@ The main goal of this project is to use SQL to analyze pizza sales data and deri
 
 ## 🚀 How to Run
 1. Import the provided dataset into your SQL environment.  
-2. Execute the SQL scripts in order:  
-   - `basic_queries.sql`  
-   - `intermediate_queries.sql`  
-   - `advanced_queries.sql`  
-3. Review results and visualize insights (optional).  
+2. Execute in order  
+3. Review results and visualize insights.  
 
 ---
 
